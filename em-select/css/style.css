@@ -1,0 +1,42 @@
+.jquery-em-interactive-container {
+
+}
+
+.jquery-em-interactive-container > .jquery-em-interactive-select {
+  width: 100%;
+}
+
+.jquery-em-interactive-container > .jquery-em-interactive-information-list {
+  margin: 0;
+  padding: 0;
+}
+
+.jquery-em-interactive-container > .jquery-em-interactive-information-list > li {
+  list-style-type: none;
+  background: #3498db;
+  color: #FFFFFF;
+  padding: 0;
+  width: 100%;
+  clear: both;
+  margin-bottom: 6px;
+}
+
+.jquery-em-interactive-container > .jquery-em-interactive-information-list > li > span.text {
+  padding: 5px 20px;
+  display: inline-block;
+}
+
+.jquery-em-interactive-container > .jquery-em-interactive-information-list > li > span.remove {
+  background: #e74c3c;
+  float: right;
+  display: inline-block;
+  padding: 5px 20px;
+  cursor: pointer;
+}
+
+.jquery-em-interactive-container > .jquery-em-interactive-information-list > li > span.clear {
+  clear:both;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
